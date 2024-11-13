@@ -90,7 +90,7 @@ Aziz                 312410080     100.0       95.0          85.0          93.0
   - Setiap data mahasiswa ditambahkan ke dalam list dengan menggunakan metode.append().
 
 ## Flowchart
-
+![flowchart](output.png)
 
 
 
